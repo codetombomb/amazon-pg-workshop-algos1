@@ -80,12 +80,16 @@ addAll(arr1)
     ```
     
 
-## Leetcode Problem
+## Resources
 
-- Hard-ish: [https://leetcode.com/problems/fibonacci-number/](https://leetcode.com/problems/fibonacci-number/)
-- Sum tria
+- [Workshop notes](https://www.notion.so/Algos-I-5626eb8314bf4c5fb9df86a430ae7227)
+- [Colt Steele DS and Algos course](https://www.udemy.com/share/101X5s3@zXK8epyQ00MsMGpCQKVuFAb32hSKaGNcMvXnoGTGMFpppVUfjfjsjk2_cshgbH-F-w==/)
+- [Code from workshop](https://github.com/codetombomb/amazon-pg-workshop-algos1)
+- [Leetcode Fibonacci Algo (hard)](https://leetcode.com/problems/fibonacci-number/)
+- [Practice algos with solutions](https://www.geeksforgeeks.org/recursion-practice-problems-solutions/)
+- [Sum triangle algo (easy)](https://www.geeksforgeeks.org/sum-triangle-from-array/)
 
-### Questions
+### Questions that need answers
 
 - Why use recursion over a plain ol loop?
 - What limits the callstack? Browser? JS itself?
